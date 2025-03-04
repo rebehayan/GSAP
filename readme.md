@@ -1,6 +1,6 @@
-## Javascript + JS Library 기초 과정
+## GSAP 기초 과정
 
-해당과정은 자바스크립트와 관련 라이브러리를 다양한 예제와 함께 기초를 학습하고, 실제 프로젝트 화면에서 어떻게 응용하고 적용할 수 있는지를 학습하게 됩니다.<br>
+해당과정은 자바스크립트 라이브러리인 GSAP의 다양한 예제와 함께 기초를 학습하고, 실제 프로젝트 화면에서 어떻게 응용하고 적용할 수 있는지를 학습하게 됩니다.<br>
 
 - **📣커리큘럼 및 신청** [스마트스토어 바로가기](https://smartstore.naver.com/rebehayan/products/9520414900)
 - **🎲개강정보 안내** [유튜브 바로가기](https://www.youtube.com/rebehayan)
@@ -11,7 +11,7 @@
 ### 코드를 복사합니다.
 
 ```bash
-npx degit rebehayan/javascript .
+npx degit rebehayan/GSAP .
 ```
 
 ## 설치순서
