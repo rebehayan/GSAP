@@ -1,0 +1,35 @@
+[
+  {
+    "title": "gsap",
+    "nav": [
+      {
+        "name": "Basic 1",
+        "link": "01-basic.html"
+      },
+      {
+        "name": "Basic 2",
+        "link": "02-basic.html"
+      },
+      {
+        "name": "Timeline",
+        "link": "02-timeline.html"
+      },
+      {
+        "name": "Menu",
+        "link": "03-menu.html"
+      },
+      {
+        "name": "Scroll Trigger",
+        "link": "04-trigger.html"
+      },
+      {
+        "name": "Scroll Scrub",
+        "link": "05-scrub.html"
+      },
+      {
+        "name": "Scroll Pin",
+        "link": "06-pin.html"
+      }
+    ]
+  }
+]
