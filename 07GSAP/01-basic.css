@@ -162,6 +162,8 @@ h2 {
   white-space: nowrap;
   margin-block: 3rem;
   padding: 20px;
+  border: 2px solid #c1c1c1;
+  outline: 4px solid #f1f1f1;
   h1 {
     font-size: 1.4rem;
   }
