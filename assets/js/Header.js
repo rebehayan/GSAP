@@ -1,9 +1,10 @@
 const mobileSize = 1280;
 const frame = document.querySelector("iframe");
 const button = document.querySelector(".btn-mobile");
+const currentState = sessionStorage.getItem("src");
+const linkTag = document.querySelector(".blank");
 
 const newTab = (link) => {
-  const linkTag = document.querySelector(".blank");
   linkTag.setAttribute("href", link);
 };
 
@@ -41,6 +42,7 @@ export const Header = () => {
   const gnb = document.querySelector("#gnb");
   const links = gnb.querySelectorAll("a");
 
+  newTab(currentState);
   links.forEach((link) => {
     link.addEventListener("click", () => {
       newTab(link);
